@@ -21,3 +21,5 @@ _2024년 10월 ~ 2025년 2월_
 서울 청년취업사관학교 / 천재교육  
 
 Python과 자연어처리를 활용한 기초 프로그래밍부터 대규모 LLM을 활용한 지식 챗봇 개발까지, 단계별로 AI 기술 역량을 쌓아왔습니다. AWS 클라우드 환경에서 RAG 시스템과 RESTful API를 구축하고, React Native를 이용한 크로스플랫폼 웹앱 개발을 통해 풀스택 개발 경험을 축적했습니다. 실제 사례 분석부터 종합 프로젝트까지 이론과 실무를 연계한 다양한 프로젝트를 수행하며 문제 해결 능력과 창의적 사고력을 길렀습니다
+
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
